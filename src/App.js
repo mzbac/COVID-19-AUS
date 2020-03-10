@@ -52,7 +52,7 @@ export default class App extends Component {
           data: [
             { name: "NSW", value: 55 },
             { name: "VIC", value: 18 },
-            { name: "QID", value: 15 },
+            { name: "QLD", value: 18 },
             { name: "WA", value: 6 },
             { name: "SA", value: 7 },
             { name: "TAS", value: 2 },
