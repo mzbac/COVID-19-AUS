@@ -50,10 +50,10 @@ export default class App extends Component {
             }
           },
           data: [
-            { name: "NSW", value: 61 },
+            { name: "NSW", value: 65 },
             { name: "VIC", value: 21 },
             { name: "QLD", value: 18 },
-            { name: "WA", value: 6 },
+            { name: "WA", value: 9 },
             { name: "SA", value: 7 },
             { name: "TAS", value: 2 },
             { name: "ACT", value: 0 },
