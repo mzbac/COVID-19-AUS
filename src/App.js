@@ -24,7 +24,7 @@ export default class App extends Component {
       },
       visualMap: {
         min: 0,
-        max: 100,
+        max: 150,
         left: "left",
         top: "bottom",
         calculable: true
@@ -50,12 +50,12 @@ export default class App extends Component {
             }
           },
           data: [
-            { name: "NSW", value: 78 },
-            { name: "VIC", value: 28 },
-            { name: "QLD", value: 27 },
-            { name: "WA", value: 9 },
-            { name: "SA", value: 12 },
-            { name: "TAS", value: 3 },
+            { name: "NSW", value: 134 },
+            { name: "VIC", value: 57 },
+            { name: "QLD", value: 61 },
+            { name: "WA", value: 17 },
+            { name: "SA", value: 20 },
+            { name: "TAS", value: 6 },
             { name: "ACT", value: 1 },
             { name: "NT", value: 0 }
           ]
